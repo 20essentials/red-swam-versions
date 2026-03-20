@@ -1,0 +1,23 @@
+export const nameBand = 'RED SWAM VERSIONS';
+export const nameSongs = [
+	"RED SWAN LIVE RE-UPLOAD", /*1*/
+	"RED SWAN - VOCAL ONLY", /*2*/
+	"RED SWAM - PIANO", /*3*/
+	"RED SWAN - (VOCAL ONLY)", /*4*/
+	"RED SWAN - YOSHIKI W/ BEVERLY", /*5*/
+	"RED SWAN - LEEANDLIE", /*6*/
+	"RED SWAN IN ROYAL ALBERT HALL", /*7*/
+	"RED SWAM - PIANO DEUSS", /*8*/
+	"RED SWAM - OFFICIAL", /*9*/
+	"RED SWAN - OMAR CABÁN", /*10*/
+	"RED SWAN GUITAR", /*11*/
+	"RED SWAM BASS", /*12*/
+	"RED SWAN (INSTRUMENTAL)", /*13*/
+	"RED SWAN - OWNER", /*14*/
+	"RED SWAM - HYDE", /*15*/
+	"RED SWAM - PIANO PUBLIC", /*16*/
+	"RED SWAM - COVER", /*17*/
+	"RED SWAN (FULL VERSION) - PIANO", /*18*/
+	"RED SWAN - (GUITAR COVER)", /*19*/
+	"RED SWAM - BAND COVER", /*20*/
+]
